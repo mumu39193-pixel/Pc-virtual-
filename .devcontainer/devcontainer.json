@@ -2,7 +2,6 @@
   "name": "Windows 11 Docker",
   "dockerComposeFile": "../docker-compose.yml",
   "service": "windows",
-  "workspaceFolder": "/workspace",
   "portsAttributes": {
     "8006": {
       "label": "Windows Web GUI",
@@ -11,4 +10,3 @@
     }
   }
 }
-
